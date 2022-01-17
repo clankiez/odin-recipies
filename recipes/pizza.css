@@ -1,0 +1,33 @@
+body {
+    background-color:salmon;
+}
+
+img {
+    width: 50%;
+    height:50%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color:white;
+    font-family:"Lucida Console","Courier New",Monospace;
+    text-align:center
+}
+
+p,
+ul,
+ol {
+    color:snow;
+    font-family:"Lucida Handwriting","Brush Script MT",cursive;
+    font-size:20px;
+    text-align:center
+}
+
+h1 {
+    background-color:pink;
+}
